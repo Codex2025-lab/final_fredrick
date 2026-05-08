@@ -1,0 +1,16 @@
+body {
+  font-family: Arial;
+  padding: 20px;
+}
+
+.product {
+  padding: 12px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+}
+
+#loader {
+  text-align: center;
+  padding: 20px;
+  font-weight: bold;
+}
